@@ -1,0 +1,46 @@
+ # -------------------------------
+# Python
+# -------------------------------
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pkl
+*.egg-info/
+*.egg
+.Python
+
+# -------------------------------
+# Jupyter Notebook
+# -------------------------------
+.ipynb_checkpoints/
+
+# -------------------------------
+# VS Code
+# -------------------------------
+.vscode/
+.history/
+*.code-workspace
+
+# -------------------------------
+# Data Files (ignore raw big ones, allow cleaned/important ones)
+# -------------------------------
+# Ignore all CSVs by default
+*.csv
+*.xlsx
+*.xls
+*.json
+
+# But allow these cleaned/important ones
+!finance_economics_clean.csv
+!*.sample.csv
+!*.small.csv
+
+# -------------------------------
+# Environment files
+# -------------------------------
+.env
+.venv/
+env/
+venv/
+ENV/
