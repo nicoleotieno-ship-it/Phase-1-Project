@@ -4,6 +4,7 @@ PROJECT 1:FINANCE AND ECONOMIC DATA ANALYSIS
    This project explores financial and economic data with the aim of identifying key trends, relationships, and predictive insights.
 It combines Python (data cleaning, analysis, visualization) and Tableau (dashboarding) to provide both technical depth and accessible insights.
 
+
  BUSINESS UNDERSTANDING
 
 STAKEHOLDERS
@@ -19,7 +20,7 @@ How can visual dashboards help stakeholders make decisions quickly?
 DATA UNDERSTANDING AND ANALYSIS
 
 Source of Data
-Dataset downloaded from Kaggle: Finance & Economic Dataset.
+Dataset downloaded from Kaggle: Finance & Economic Dataset. [https://www.kaggle.com/datasets/khushikyad001/finance-and-economics-dataset-2000-present?]
 Description of Data
 
 The dataset contains economic and financial indicators over time, including:
@@ -77,3 +78,10 @@ Adding visualizations.
 Building regression models.
 Creating README & Tableau dashboard.
 Final polish and documentation.
+
+Links 
+
+Tableau [https://public.tableau.com/views/Economic_Indicators_17594033929960/EconomicIndicators?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link]
+
+Slide Presentation
+[https://docs.google.com/presentation/d/1T3Dm1gdoPVQA9IFziiWuGUjzF1UEbfes0IqvHPaMPOA/edit?usp=sharing]
